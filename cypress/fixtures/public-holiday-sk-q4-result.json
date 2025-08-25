@@ -1,0 +1,92 @@
+[
+    {
+        "id": "0fdc5978-0478-49a4-b35f-c2781b7dfc4d",
+        "startDate": "2025-09-15",
+        "endDate": "2025-09-15",
+        "type": "Public",
+        "name": [
+            {
+                "language": "SK",
+                "text": "Sedembolestná Panna Mária"
+            }
+        ],
+        "regionalScope": "National",
+        "temporalScope": "FullDay",
+        "nationwide": true
+    },
+    {
+        "id": "413cfbbb-df2f-442e-8201-57333c96458e",
+        "startDate": "2025-11-01",
+        "endDate": "2025-11-01",
+        "type": "Public",
+        "name": [
+            {
+                "language": "SK",
+                "text": "Sviatok všetkých svätých"
+            }
+        ],
+        "regionalScope": "National",
+        "temporalScope": "FullDay",
+        "nationwide": true
+    },
+    {
+        "id": "408bc6e9-c2a6-4228-b2c6-91153b7bbd04",
+        "startDate": "2025-11-17",
+        "endDate": "2025-11-17",
+        "type": "Public",
+        "name": [
+            {
+                "language": "SK",
+                "text": "Deň boja za slobodu a demokraciu"
+            }
+        ],
+        "regionalScope": "National",
+        "temporalScope": "FullDay",
+        "nationwide": true
+    },
+    {
+        "id": "40675b93-1f90-45b0-99d7-579e19dd122d",
+        "startDate": "2025-12-24",
+        "endDate": "2025-12-24",
+        "type": "Public",
+        "name": [
+            {
+                "language": "SK",
+                "text": "Štedrý deň"
+            }
+        ],
+        "regionalScope": "National",
+        "temporalScope": "FullDay",
+        "nationwide": true
+    },
+    {
+        "id": "d3e65eb8-9dc1-475a-8647-2e9a043142a2",
+        "startDate": "2025-12-25",
+        "endDate": "2025-12-25",
+        "type": "Public",
+        "name": [
+            {
+                "language": "SK",
+                "text": "Prvý sviatok vianočný"
+            }
+        ],
+        "regionalScope": "National",
+        "temporalScope": "FullDay",
+        "nationwide": true
+    },
+    {
+        "id": "6cb73908-5832-4eec-9193-410b9b0cd021",
+        "startDate": "2025-12-26",
+        "endDate": "2025-12-26",
+        "type": "Public",
+        "name": [
+            {
+                "language": "SK",
+                "text": "Druhý sviatok vianočný"
+            }
+        ],
+        "regionalScope": "National",
+        "temporalScope": "FullDay",
+        "nationwide": true
+    }
+]

@@ -1,0 +1,45 @@
+{
+  
+  "name": "synottest",
+  
+  "version": "1.0.0",
+  
+  "description": "",
+  
+  "main": "index.js",
+  
+  "scripts": {
+  
+    
+  "cypress:open": "cypress open",
+  
+    
+  "cypress:run": "cypress run",
+  
+    
+  "test": "npm run cypress:run"
+  
+  },
+  
+  "keywords": [],
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "devDependencies": {
+  
+    
+  "@types/node": "^24.3.0",
+  
+    
+  "cypress": "^12.16.0",
+  
+    
+  "ts-node": "^10.9.2",
+  
+    
+  "typescript": "^5.9.2"
+  
+  }
+}
