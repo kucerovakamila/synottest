@@ -19,8 +19,8 @@ npx cypress run --spec "cypress/e2e/api/**"         # headless api only! RUN THI
 
 For UI test, I chose duckduckgo search engine instead of google. Why? cookie and bot detection limitations on google for automated runs are so severe it would never pass (I looked into ai captcha plugins but decided it would be an overkill to implement for this assignment)
 
-duckduckgo is much more lenient in that regard, HOWEVER, running in headless will at last trigger its captcha guard, that's why I urge you to use the headless api only command, as the full headless will always fails on UI.
+duckduckgo is much more lenient in that regard, HOWEVER, running in headless will at last trigger its captcha guard, that's why I urge you to use the headless api only command, as the full headless will always fail on UI.
 
-Lastly, I chose for the Public Api, the openHolidays api. Now, my current approach has limitations on data (main problem being IDs), this is a problem for live app. you can Find test data in fixtures, making API expectations explicit; update them if the external API changes pls.
+Lastly, I chose for the Public Api, the openHolidays api. Now, my current approach has limitations on data (main problem being IDs), this is a problem for live app. you can find test data in fixtures, making API expectations explicit; update them if the external API changes pls.
 
 thx for coming to my TED talk
